@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [YSNetCT](https://github.com/Ymxer/YSNetCT)
 
-- 📝 I regularly write articles on [www.ymxer.cn](www.ymxer.cn)
+- 📝 I regularly write articles on [www.ymxer.cn](https://www.ymxer.cn)
 
 - 📫 How to reach me **yang@ymxer.com**
 
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/xiaoren2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xiaoren2024" height="30" width="40" /></a>
 <a href="https://fb.com/ymxer2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ymxer2022" height="30" width="40" /></a>
 <a href="https://instagram.com/ymxer2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ymxer2022" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ymxer2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ymxer2022" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ymxer2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ymxer2022" height="30" width="40" /></a>
 <a href="https://discord.gg/ymxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ymxer" height="30" width="40" /></a>
 </p>
 
