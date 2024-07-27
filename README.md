@@ -33,6 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymxer&show_icons=true&locale=en&theme=buefy" alt="ymxer" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymxer&layout=compact)](https://github.com/ymxer/github-readme-stats)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ymxer&theme=buefy" alt="ymxer" /></p>
