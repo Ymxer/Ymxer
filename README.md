@@ -34,7 +34,7 @@
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=ydos&theme=ambient_gradient)](https://github.com/Ymxer/YDOS)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=jolly)](https://github.com/Ymxer/BotFilter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=material-palenight)](https://github.com/Ymxer/BotFilter)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=rose_pine)](https://github.com/Ymxer/BotFilter)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=omni)](https://github.com/Ymxer/BotFilter)
 ##
 
