@@ -34,8 +34,8 @@
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=ydos&theme=ambient_gradient)](https://github.com/Ymxer/YDOS)&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=catppuccin_latte)](https://github.com/Ymxer/BotFilter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=buefy)](https://github.com/Ymxer/BotFilter)&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=BotFilter&theme=graywhite)](https://github.com/Ymxer/BotFilter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=motedesk&theme=buefy)](https://github.com/Ymxer/motedesk)&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=ypost&theme=graywhite)](https://github.com/Ymxer/ypost)
 ##
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ymxer&show_icons=true&locale=en&theme=buefy" alt="ymxer" /></p>
