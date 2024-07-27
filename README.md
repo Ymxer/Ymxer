@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yang@ymxer.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ymxer&show_icons=true&layout=pie&locale=en&theme=ambient_gradient" alt="ymxer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ymxer&show_icons=true&layout=pie&locale=en&theme=swift" alt="ymxer" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
