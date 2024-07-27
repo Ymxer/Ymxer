@@ -17,10 +17,6 @@
 
 - 📫 How to reach me **yang@ymxer.com**
 
-<a href="https://github.com/ymxer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ymxer&repo=github-readme-stats&theme=buefy" />
-</a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ymxer&show_icons=true&layout=pie&locale=en&theme=ambient_gradient" alt="ymxer" /></p>
 
 <h3 align="left">Connect with me:</h3>
