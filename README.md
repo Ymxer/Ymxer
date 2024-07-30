@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymxer" alt="ymxer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/xiaoren2024" target="blank"><img src="https://img.shields.io/twitter/follow/xiaoren2024?logo=twitter&style=for-the-badge" alt="xiaoren2024" /></a> </p>
-
 - 🔭 I’m currently working on [YDOS](https://github.com/Ymxer/YDOS)
 
 - 👯 I’m looking to collaborate on [motedesk](https://github.com/Ymxer/motedesk)
